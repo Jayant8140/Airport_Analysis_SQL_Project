@@ -5,17 +5,17 @@ This project showcases a full data analysis pipeline on airport-related data usi
 ---
 
 ## 📁 Folder Structure
-'''
+
 AirportAnalysisSQLProject/
-├── SQL/ # 20 SQL queries for airport data analysis
-├── Python_notebook/ # Python analysis (Jupyter Notebook + Dash)
-├── Dashboard/ # Power BI interactive dashboard (.pbix)
-├── Documentation/ # PDF with all problem statements and storylines
-└── README.md # Project overview and usage guide
-'''
+├── 📂 SQL/ → 20 SQL queries for airport data analysis
+├── 📂 Python_notebook/ → Python dashboard with Jupyter & Dash
+├── 📂 Dashboard/ → Power BI dashboard (.pbix)
+├── 📂 Documentation/ → PDF report with problem statements
+└── 📄 README.md → Project overview
+
+
 
 ---
-
 ## 🧠 Project Overview
 
 This project focuses on analyzing airport data to derive meaningful insights about:
@@ -42,8 +42,8 @@ This project focuses on analyzing airport data to derive meaningful insights abo
 
 The dataset used in this project is approximately **500 MB** and is **not included in this GitHub repository** due to size limitations.
 
-🔗 [Download Dataset from Google Drive](https://drive.google.com/your-download-link)  
-(Replace the link above with your actual link)
+🔗 [Download Dataset from Google Drive](https://drive.google.com/file/d/1Mk00QddbF8oExiPN0MSVEr58d0NN9s3w/view?usp=drivesdk)  
+
 
 After downloading, place the file in a new folder:
 
