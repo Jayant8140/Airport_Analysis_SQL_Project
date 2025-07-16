@@ -6,7 +6,16 @@ This project showcases a full data analysis pipeline on airport-related data usi
 
 ## 📁 Folder Structure
 
-``` AirportAnalysisSQLProject/ ├── 📂 SQL/ → 20 SQL queries for airport data analysis ├── 📂 Python_notebook/ → Python dashboard with Jupyter & Dash ├── 📂 Dashboard/ → Power BI dashboard (.pbix) ├── 📂 Documentation/ → PDF report with problem statements ├── 📂 DashboardImage/ → Power BI screenshot (dashboard preview) └── 📄 README.md → Project overview ``` 
+```
+
+AirportAnalysisSQLProject/
+├── 📂 SQL/ # 20 SQL queries for airport data analysis
+├── 📂 Python_notebook/ # Python dashboard with Jupyter & Dash
+├── 📂 Dashboard/ # Power BI dashboard (.pbix)
+├── 📂 Documentation/ #PDF report with problem statements
+├── 📂 DashboardImage/ #Power BI screenshot (dashboard preview)
+└── 📄 README.md #Project overview
+``` 
 
 
 
